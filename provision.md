@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2020
-lastupdated: "2020-06-1"
+lastupdated: "2020-06-01"
 
 keywords: service instance, create service instance, KMS service instance, Key Protect service instance
 
