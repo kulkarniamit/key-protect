@@ -31,7 +31,7 @@ encryption keys by using a dual authorization process.
 
 When you delete a key, you shred its contents and associated data. Any data that
 is encrypted by the key becomes inaccessible.
-[Destroying resources](/docs/key-protect?topic=key-protect-security-and-compliance#data-deletion)
+[Destroying resources](/docs/key-protect?topic=key-protect-data-security-and-compliance#data-deletion)
 is not recommended for production environments, but might be useful for
 temporary environments such as testing or QA.
 {: important}
